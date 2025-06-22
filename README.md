@@ -2,6 +2,7 @@
 A beginner-friendly Body Mass Index (BMI) calculator built using PHP and styled with CSS. This project helps users calculate their BMI based on height and weight, with a clear result and health category.
 
 📌 Features
+
 ->PHP-powered BMI calculation
 
 ->Instant feedback on health status:
