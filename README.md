@@ -4,9 +4,9 @@ A beginner-friendly Body Mass Index (BMI) calculator built using PHP and styled 
 
 📌 Features
 
-->PHP-powered BMI calculation
+PHP-powered BMI calculation
 
-->Instant feedback on health status:
+Instant feedback on health status:
   - Underweight
     
   - Normal weight
@@ -15,9 +15,9 @@ A beginner-friendly Body Mass Index (BMI) calculator built using PHP and styled 
     
   - Obese
 
-->Minimal and modern user interface
+Minimal and modern user interface
 
-->Lightweight and beginner-friendly
+Lightweight and beginner-friendly
 
 
 🖥️ Tech Stack
