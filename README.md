@@ -22,4 +22,3 @@ PHP (Backend Logic)
 
 HTML/CSS (Frontend)
 
-No database required
