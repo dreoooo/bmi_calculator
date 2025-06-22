@@ -19,6 +19,7 @@ A beginner-friendly Body Mass Index (BMI) calculator built using PHP and styled 
 
 ->Lightweight and beginner-friendly
 
+
 🖥️ Tech Stack
 PHP (Backend Logic)
 
